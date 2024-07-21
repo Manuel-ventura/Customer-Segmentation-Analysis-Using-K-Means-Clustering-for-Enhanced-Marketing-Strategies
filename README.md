@@ -3,10 +3,6 @@
 ## Project Overview
 This project utilizes K-Means Clustering, an unsupervised machine learning technique, to perform customer segmentation. The analysis is based on a dataset specifically designed for learning the concepts of market basket analysis. By segmenting customers according to their annual income, spending score, and age, this project aims to provide insights that can help in crafting targeted marketing strategies.
 
-## About Dataset
-This data set is created only for the learning purpose of the customer segmentation concepts , also known as market basket analysis . I will demonstrate this by using unsupervised ML technique (KMeans Clustering Algorithm) in the simplest form.
-- More here: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data
-
 ## Table of Contents
 - [Installation](#installation)
 - [Data Description](#data-description)
@@ -36,6 +32,8 @@ The dataset used in this project is crafted for the purpose of understanding cus
 - **Age**: Age of the customer
 - **Annual Income (k$)**: Annual Income of the customer in thousand dollars
 - **Spending Score (1-100)**: Score assigned by the mall based on customer behavior and spending nature
+
+- More here: https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python/data
 
 ## Usage
 To run this project, simply clone the repository and execute the Jupyter notebook:
