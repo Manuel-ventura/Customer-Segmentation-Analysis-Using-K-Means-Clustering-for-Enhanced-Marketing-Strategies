@@ -39,7 +39,7 @@ To run this project, simply clone the repository and execute the Jupyter noteboo
 git clone https://github.com/Manuel-ventura/Customer-Segmentation-Analysis-Using-K-Means-Clustering-for-Enhanced-Marketing-Strategies.git
 cd Customer-Segmentation-Analysis-Using-K-Means-Clustering-for-Enhanced-Marketing-Strategies
 jupyter notebook k-means-clustering-mall-customer.ipynb
-
+```
 
 ## Methodology
 The project follows these steps:
@@ -57,5 +57,3 @@ Contributions to this project are welcome. Please ensure to update tests as appr
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
